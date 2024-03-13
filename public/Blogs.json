@@ -1,0 +1,53 @@
+[
+    {
+      "ID": "001",
+      "cover": "https://i.ibb.co/QM0FJk4/toy-bricks-table-with-word-blog.jpg",
+      "title": "The Mystery of Emerald Valley",
+      "author": "Jessica Blake",
+      "author_image": "https://i.ibb.co/KXLf97J/images.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": "45 ",
+      "hashtags": ["mystery", "adventure", "fiction"]
+    },
+    {
+      "ID": "002",
+      "cover": "https://i.ibb.co/mBYcb7B/top-view-workspace-with-notepad-laptop.jpg",
+      "title": "Beyond the Horizon",
+      "author": "Michael Smith",
+      "author_image": "https://i.ibb.co/YLnBhh5/images-1.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": "1 ",
+      "hashtags": ["sci-fi", "space", "exploration"]
+    },
+    {
+      "ID": "003",
+      "cover": "https://i.ibb.co/0t3Vcqw/top-view-workspace-with-copy-space-notebook-top-agenda.jpg",
+      "title": "The Secret Garden",
+      "author": "Emily Johnson",
+      "author_image": "https://i.ibb.co/ZK7dXWZ/images-2.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": "30 ",
+      "hashtags": ["fantasy", "nature", "magic"]
+    },
+    {
+      "ID": "004",
+      "cover": "https://i.ibb.co/g3xRfLF/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "title": "City of Shadows",
+      "author": "David Lee",
+      "author_image": "https://i.ibb.co/ZLbWMqK/images-3.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": "50 ",
+      "hashtags": ["thriller", "crime", "urban"]
+    },
+    {
+      "ID": "005",
+      "cover": "https://i.ibb.co/23yC2S4/toy-bricks-table-with-word-my-blog.jpg",
+      "title": "Echoes of Time",
+      "author": "Sophie Brown",
+      "author_image": "https://i.ibb.co/HNdg83p/images-4.jpg",
+      "posted_date": "2024-03-09",
+      "reading_time": "40 ",
+      "hashtags": ["historical", "romance", "past"]
+    }
+  ]
+  
